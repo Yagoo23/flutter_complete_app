@@ -94,7 +94,7 @@ const DUMMY_MEALS = const [
   Meal(
     id: 'm2',
     categories: [
-      'c3',
+      'c2',
     ],
     title: 'Toast Hawaii',
     affordability: Affordability.Affordable,
@@ -173,7 +173,7 @@ const DUMMY_MEALS = const [
       'Lemon Slices'
     ],
     steps: [
-      'Tenderize the veal to about 2-4mm, and salt on both sides.',
+      'Tenderize the veal to about 2–4mm, and salt on both sides.',
       'On a flat plate, stir the eggs briefly with a fork.',
       'Lightly coat the cutlets in flour then dip into the egg, and finally, coat in breadcrumbs.',
       'Heat the butter and oil in a large pan (allow the fat to get very hot) and fry the schnitzels until golden brown on both sides.',
